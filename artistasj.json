@@ -1,0 +1,62 @@
+[
+    {
+        "genero": "Electronica",
+        "nombre": "Deadmau5",
+        "procedencia": "Canada"
+    },
+    {
+        "genero": "Electronica",
+        "nombre": "Daft Punk",
+        "procedencia": "Francia"
+    },
+    {
+        "genero": "Electronica",
+        "nombre": "Tiesto",
+        "procedencia": "Paises bajos"
+    },
+    {
+        "genero": "Electronica",
+        "nombre": "Avicii",
+        "procedencia": "Suicia"
+    },
+    {
+        "genero": "Electronica",
+        "nombre": "M83",
+        "procedencia": "Francia"
+    },
+    {
+        "genero": "Electronica",
+        "nombre": "The Knife",
+        "procedencia": "Suicia"
+    },
+    {
+        "genero": "Electronica",
+        "nombre": "deadmau5 ft.Chris James",
+        "procedencia": "Canada"
+    },
+    {
+        "genero": "Electronica",
+        "nombre": "Moby",
+        "procedencia": "Estados Unidos"
+    },
+    {
+        "genero": "Electronica",
+        "nombre": "Jam & Spoon",
+        "procedencia": "Alemania"
+    },
+    {
+        "genero": "Electronica",
+        "nombre": "Donna Summer",
+        "procedencia": "Estados unidos"
+    },
+    {
+        "genero": "Rock",
+        "nombre": "lucas",
+        "procedencia": "argentina"
+    },
+    {
+        "genero": "Rock",
+        "nombre": "ll",
+        "procedencia": "argentina"
+    }
+]

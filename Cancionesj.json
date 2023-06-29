@@ -1,0 +1,86 @@
+[
+    {
+        "Artista": 1,
+        "Minutos": 10,
+        "Puntuacion": 4,
+        "Segundos": 34,
+        "Titulo": "Strobe"
+    },
+    {
+        "Artista": 2,
+        "Minutos": 5,
+        "Puntuacion": 3,
+        "Segundos": 20,
+        "Titulo": "One More Time"
+    },
+    {
+        "Artista": 3,
+        "Minutos": 7,
+        "Puntuacion": 2,
+        "Segundos": 23,
+        "Titulo": "Adagi for Strings"
+    },
+    {
+        "Artista": 4,
+        "Minutos": 3,
+        "Puntuacion": 4,
+        "Segundos": 23,
+        "Titulo": "Levels"
+    },
+    {
+        "Artista": 5,
+        "Minutos": 4,
+        "Puntuacion": 5,
+        "Segundos": 3,
+        "Titulo": "Midnight City"
+    },
+    {
+        "Artista": 6,
+        "Minutos": 6,
+        "Puntuacion": 6,
+        "Segundos": 18,
+        "Titulo": "Silent Shout"
+    },
+    {
+        "Artista": 7,
+        "Minutos": 11,
+        "Puntuacion": 7,
+        "Segundos": 34,
+        "Titulo": "The Veldt "
+    },
+    {
+        "Artista": 8,
+        "Minutos": 4,
+        "Puntuacion": 8,
+        "Segundos": 10,
+        "Titulo": "Porcelain"
+    },
+    {
+        "Artista": 9,
+        "Minutos": 6,
+        "Puntuacion": 9,
+        "Segundos": 48,
+        "Titulo": "The Age of Love"
+    },
+    {
+        "Artista": 10,
+        "Minutos": 5,
+        "Puntuacion": 10,
+        "Segundos": 54,
+        "Titulo": "I Feel Love "
+    },
+    {
+        "Artista": 1,
+        "Minutos": 3,
+        "Puntuacion": 4,
+        "Segundos": 2,
+        "Titulo": "la"
+    },
+    {
+        "Artista": 1,
+        "Minutos": 3,
+        "Puntuacion": 3,
+        "Segundos": 3,
+        "Titulo": "hhh"
+    }
+]

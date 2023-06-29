@@ -1,0 +1,10 @@
+    //rocola.push_back(Cancion("Strobe               ", 10, 34, Artista("  Deadmau5                  ", "Canada         ", Genero::Electronica), 1));
+    //rocola.push_back(Cancion("One More Time        ", 5, 20, Artista("   Daft Punk                 ", "Francia        ", Genero::Electronica), 3));
+    //rocola.push_back(Cancion("Adagio for Strings   ", 7, 23, Artista("   Tiësto                    ", "Paises Bajos   ", Genero::Electronica), 2));
+    //rocola.push_back(Cancion("Levels               ", 3, 22, Artista("   Avicii                    ", "Suicia         ", Genero::Electronica), 4));
+    //rocola.push_back(Cancion("Midnight City        ", 4,03, Artista("    M83                       ", "Francia        ", Genero::Electronica), 5));
+    //rocola.push_back(Cancion("Silent Shout         ", 6, 18, Artista("   The Knife                 ", "Suicia         ", Genero::Electronica), 6));
+    //rocola.push_back(Cancion("The Veldt            ", 11, 34, Artista("  deadmau5 ft.Chris James   ", "Canada         ", Genero::Electronica), 7));
+    //rocola.push_back(Cancion("Porcelain            ", 4, 10, Artista("   Moby                      ", "Estados Unidos ", Genero::Electronica), 8));
+    //rocola.push_back(Cancion("The Age of Love      ", 6, 48, Artista("   Jam & Spoon               ", "Alemania       ", Genero::Electronica), 9));
+    //rocola.push_back(Cancion("I Feel Love         ", 5, 54, Artista("   Donna Summer              ", "Estados Unidos ", Genero::Electronica), 10));

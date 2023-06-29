@@ -1,0 +1,10 @@
+Strobe            ,10:34,4,1
+One More Time     ,5:20,2,3
+Adagio for Strings,7:23,3,2
+Levels            ,3:22,4,4
+Midnight City     ,4:3,5,5
+Silent Shout      ,6:18,6,6
+The Veldt         ,11:34,7,7
+Porcelain         ,4:10,8,8
+The Age of Love   ,6:48,9,9
+I Feel Love       ,5:54,10,10w,12, 2,11,3w,12, 2,11,3
